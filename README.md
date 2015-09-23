@@ -7,7 +7,7 @@ Ask a question, please <kbd>[create a new issue](https://github.com/rubytaiwan/a
 
 ## Read
 
-Check out the <kbd>[Closed Issues](https://github.com/rubytaiwan/ama/issues?q=is%3Aissue+is%3Aclosed)</kbd> on this repository.
+Check out the <kbd>[Unanswered Questions](https://github.com/rubytaiwan/AMA/issues)</kbd> or <kbd>[Answered Questions](https://github.com/rubytaiwan/ama/issues?q=is%3Aissue+is%3Aclosed)</kbd> on this repository.
 
 ## Answered
 
@@ -33,8 +33,8 @@ Love,
 
 查看本專案<kbd>[已解決的問題](https://github.com/rubytaiwan/ama/issues?q=is%3Aissue+is%3Aclosed)</kbd>。
 
+## 解答
+
+查看本專案<kbd>[需要幫忙的問題](https://github.com/rubytaiwan/AMA/issues)</kbd>，提出建議或解答方式。如果問題已獲得解答，請關閉問題。
+
 參與本專案代表同意遵守[行為準則](/CODE_OF_CONDUCT.md)。
-
-Love,
-
-[Internet Style](https://www.youtube.com/watch?v=Xe1TZaElTAs).
