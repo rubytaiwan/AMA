@@ -3,11 +3,11 @@
 
 ## Ask
 
-Ask a question, please <kbd>[create a new issue](https://github.com/rubytaiwan/ama/issues/new)</kbd> on this project.
+Ask a question, please <kbd>[create a new issue](https://github.com/rubytaiwan/ama/issues/new)</kbd> on this project. 
 
 ## Read
 
-Check out the <kbd>[Closed Issues](https://github.com/rubytaiwan/ama/issues?q=is%3Aissue+is%3Aclosed)</kbd> on this repository.
+Check out the <kbd>[Issues need help](https://github.com/rubytaiwan/AMA/issues)</kbd> or <kbd>[Closed Issues](https://github.com/rubytaiwan/ama/issues?q=is%3Aissue+is%3Aclosed)</kbd> on this repository.
 
 ## Answered
 
@@ -32,6 +32,11 @@ Love,
 ## 瀏覽
 
 查看本專案<kbd>[已解決的問題](https://github.com/rubytaiwan/ama/issues?q=is%3Aissue+is%3Aclosed)</kbd>。
+
+## 解答
+
+查看本專案<kbd>[需要幫忙的問題](https://github.com/rubytaiwan/AMA/issues)</kbd>，並且提出建議或解答方式。如果你的問題已獲得解答，請關閉問題。
+
 
 參與本專案代表同意遵守[行為準則](/CODE_OF_CONDUCT.md)。
 
