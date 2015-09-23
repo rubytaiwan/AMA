@@ -1,5 +1,6 @@
 # Ruby Taiwan AMA
-<sup>[中文說明](#中文說明)</sup>
+* [English](README.md)
+* [Chinese](README-cht.md)
 
 ## Ask
 
@@ -21,20 +22,4 @@ Love,
 
 [Internet Style](https://www.youtube.com/watch?v=Xe1TZaElTAs).
 
---
 
-<a name="中文說明"></a>
-
-## 提問
-
-問問題請在本專案<kbd>[舉手發問](https://github.com/rubytaiwan/ama/issues/new)</kbd>。
-
-## 瀏覽
-
-查看本專案<kbd>[已解決的問題](https://github.com/rubytaiwan/ama/issues?q=is%3Aissue+is%3Aclosed)</kbd>。
-
-參與本專案代表同意遵守[行為準則](/CODE_OF_CONDUCT.md)。
-
-Love,
-
-[Internet Style](https://www.youtube.com/watch?v=Xe1TZaElTAs).
