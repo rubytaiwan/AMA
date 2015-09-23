@@ -25,6 +25,8 @@ Love,
 
 <a name="中文說明"></a>
 
+# Ruby Taiwan AMA 問就對了
+
 ## 提問
 
 問問題請在本專案<kbd>[舉手發問](https://github.com/rubytaiwan/ama/issues/new)</kbd>。
