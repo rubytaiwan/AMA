@@ -39,4 +39,6 @@ Love,
 
 查看本專案<kbd>[需要幫忙的問題](https://github.com/rubytaiwan/AMA/issues)</kbd>，提出建議或解答方式。如果問題已獲得解答，請關閉問題。
 
+## 行為準則
+
 參與本專案代表同意遵守[行為準則](/CODE_OF_CONDUCT.md)。
