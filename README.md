@@ -22,7 +22,7 @@ Love,
 [Internet Style](https://www.youtube.com/watch?v=Xe1TZaElTAs).
 
 --
-
+# Ruby Taiwan AMA 問就對了
 <a name="中文說明"></a>
 
 ## 提問
@@ -34,6 +34,10 @@ Love,
 查看本專案<kbd>[已解決的問題](https://github.com/rubytaiwan/ama/issues?q=is%3Aissue+is%3Aclosed)</kbd>。
 
 參與本專案代表同意遵守[行為準則](/CODE_OF_CONDUCT.md)。
+
+## 回答
+
+如果您的問題已經被解決了，請 CLOSE 它.
 
 Love,
 
