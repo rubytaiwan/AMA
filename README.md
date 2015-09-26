@@ -49,3 +49,13 @@ Love, <br>
 ## 行為準則
 
 參與本專案代表同意遵守[行為準則](/CODE_OF_CONDUCT.md)。
+
+
+## CC0 1.0 Universal
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, anyone participated in this project waived all copyright and
+related or neighboring rights to "Ruby Taiwan AMA".
+
+https://creativecommons.org/publicdomain/zero/1.0
