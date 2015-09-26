@@ -5,6 +5,10 @@
 
 Ask a question, please <kbd>[create a new issue](https://github.com/rubytaiwan/ama/issues/new)</kbd> on this project.
 
+Take 3 minutes to learn how to use markdown:
+
+[<img width="545" alt="screenshot 2015-09-26 13 55 43" src="https://cloud.githubusercontent.com/assets/1000669/10116069/5b7237fe-6456-11e5-95a8-3c4d3fbab4ad.png">](https://guides.github.com/features/mastering-markdown/)
+
 ## Read
 
 Check out the <kbd>[Unanswered Questions](https://github.com/rubytaiwan/AMA/issues)</kbd> or <kbd>[Answered Questions](https://github.com/rubytaiwan/ama/issues?q=is%3Aissue+is%3Aclosed)</kbd> on this repository.
@@ -17,8 +21,7 @@ If your question got answered, please close it.
 
 By participating in this project, you agree to abide by the [code of conduct](/CODE_OF_CONDUCT.md).
 
-Love,
-
+Love, <br>
 [Internet Style](https://www.youtube.com/watch?v=Xe1TZaElTAs).
 
 --
