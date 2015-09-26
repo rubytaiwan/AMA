@@ -1,6 +1,8 @@
 # Ruby Taiwan AMA
 <sup>[中文說明](#中文說明)</sup>
 
+Ask anything! Not only for Ruby or Rails.
+
 ## Ask
 
 Ask a question, please <kbd>[create a new issue](https://github.com/rubytaiwan/ama/issues/new)</kbd> on this project.
@@ -29,6 +31,8 @@ Love, <br>
 <a name="中文說明"></a>
 
 # Ruby Taiwan AMA 問就對了
+
+可以問任何問題，不侷限於 Ruby 與 Rails。
 
 ## 提問
 
