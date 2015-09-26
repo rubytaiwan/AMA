@@ -7,7 +7,7 @@ Ask a question, please <kbd>[create a new issue](https://github.com/rubytaiwan/a
 
 Take 3 minutes to learn how to use markdown:
 
-[<img width="545" alt="screenshot 2015-09-26 13 55 43" src="https://cloud.githubusercontent.com/assets/1000669/10116069/5b7237fe-6456-11e5-95a8-3c4d3fbab4ad.png">](https://guides.github.com/features/mastering-markdown/)
+[<img width="545" alt="Mastering markdown: https://guides.github.com/features/mastering-markdown" src="https://cloud.githubusercontent.com/assets/1000669/10116069/5b7237fe-6456-11e5-95a8-3c4d3fbab4ad.png">](https://guides.github.com/features/mastering-markdown)
 
 ## Read
 
