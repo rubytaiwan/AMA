@@ -19,6 +19,12 @@ Check out the <kbd>[Unanswered Questions](https://github.com/rubytaiwan/AMA/issu
 
 If your question got answered, please close it.
 
+## Optimization
+
+We hope all answers can help other developers on related or identical questions in the future. In order to optimize readability and SEO, administrators are allowed to modify or revise closed issues, including format, spelling, and precision.
+
+However, if you do not feel comfortable about this, leave a message and it will not be modified (and any change for this purpose will be reverted).
+
 ## Code of Conduct
 
 By participating in this project, you agree to abide by the [code of conduct](/CODE_OF_CONDUCT.md).
@@ -45,6 +51,14 @@ Love, <br>
 ## 解答
 
 查看本專案<kbd>[需要幫忙的問題](https://github.com/rubytaiwan/AMA/issues)</kbd>，提出建議或解答方式。如果問題已獲得解答，請關閉問題。
+
+## 優化
+
+期望這些解答都能得到更好的利用，並幫助其他開發者遇到類似問題時能快速獲得解答。
+因此，為了讓這些問題更好理解、並在搜尋引擎上有更佳的曝光，管理員有權修改已經關閉的問題。
+修改範圍包括格式、選字、用詞等等。
+
+如果你對這些修改感到不滿，請直接留言，管理員將不會修改問題內容。
 
 ## 行為準則
 
